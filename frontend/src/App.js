@@ -1,9 +1,11 @@
 import Home from "./Pages/Home";
+import StaffList from "./Pages/StaffList";
 
 function App() {
   return (
     <div>
-      <Home />
+      {/* <Home /> */}
+      <StaffList/>
     </div>
   );
 }
