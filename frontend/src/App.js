@@ -1,9 +1,11 @@
 import Home from "./Pages/Home";
+import Student from "./Pages/Student";
 
 function App() {
   return (
     <div>
-      <Home />
+      {/* <Home /> */}
+      <Student/>
     </div>
   );
 }
